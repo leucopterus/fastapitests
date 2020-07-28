@@ -1,0 +1,6 @@
+dnspython==2.0.0
+email-validator==1.1.1
+idna==2.10
+pydantic==1.6.1
+python-dotenv==0.14.0
+typing-extensions==3.7.4.2
